@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Komal 👋
 
-<!--
-**komalgaur992/komalgaur992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 Full-Stack Developer passionate about building AI-powered apps, automation tools & data dashboards  
+🎓 CSE '25 | Constantly exploring new tech & solving real-world problems  
+🌟 Open for collaboration on impactful projects  
+💭 Currently learning cloud integrations & advanced React features  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔧 Tech Stack**
+JavaScript · Python · React · Django REST · Firebase · OpenAI API · Google Speech-to-Text · n8n · REST APIs · Git · SQL/NoSQL · Docker · AWS (Beginner)
+
+**🚀 Featured Projects**
+- **Tadka Tales** – Voice-assisted cooking app with AI responses and 150+ multilingual recipes  
+- **Court Data Fetcher & Dashboard** – Legal case data scraper with real-time filters  
+- **WhatsApp Google Drive Assistant** – Drive file management via WhatsApp commands using n8n
+
+**📫 Connect with me:**
+[LinkedIn](https://www.linkedin.com/in/komal025 • [Resume] – embed your PDF link or other
+
+
+
