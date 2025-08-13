@@ -15,7 +15,7 @@ JavaScript · Python · React · Django REST · Firebase · OpenAI API · Google
 - **WhatsApp Google Drive Assistant** – Drive file management via WhatsApp commands using n8n
 
 **📫 Connect with me:**
-[LinkedIn](https://www.linkedin.com/in/komal025 • [Resume] – embed your PDF link or other
+[LinkedIn](https://www.linkedin.com/in/komal025 
 
 
 
