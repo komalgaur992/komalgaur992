@@ -10,7 +10,7 @@
 JavaScript · Python · React · Django REST · Firebase · OpenAI API · Google Speech-to-Text · n8n · REST APIs · Git · SQL/NoSQL · Docker · AWS (Beginner)
 
 **🚀 Featured Projects**
-- **Tadka Tales** – Voice-assisted cooking app with AI responses and 150+ multilingual recipes  
+- **Tadka Tales** – A hands-free cooking assistant built with Next.js
 - **Court Data Fetcher & Dashboard** – Legal case data scraper with real-time filters  
 - **WhatsApp Google Drive Assistant** – Drive file management via WhatsApp commands using n8n
 
