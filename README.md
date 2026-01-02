@@ -1,20 +1,40 @@
-### Hi, I'm Komal 👋
+### Hi, I’m Komal 👋  
+**Aspiring Cloud & DevOps Engineer** | B.Tech (CSE)
 
-👩🏻‍💻 Full-Stack Developer passionate about building AI-powered apps, automation tools & data dashboards  
-🎓 CSE '25 | Constantly exploring new tech & solving real-world problems  
-🌟 Open for collaboration on impactful projects  
-💭 Currently learning cloud integrations & advanced React features  
+I’m building strong foundations in **Cloud Computing (AWS), Linux, Networking**, and **DevOps fundamentals**.  
+I enjoy understanding how systems work behind the scenes, troubleshooting issues, and automating repetitive tasks.
 
+---
 
-**🔧 Tech Stack**
-JavaScript · Python · React · Django REST · Firebase · OpenAI API · Google Speech-to-Text · n8n · REST APIs · Git · SQL/NoSQL · Docker · AWS (Beginner)
+### 🔍 Currently Learning
+- AWS Core Concepts (EC2, VPC, IAM basics)
+- Linux fundamentals & shell scripting
+- Networking (OSI, TCP/IP, subnets)
+- Python automation for operations
+- DevOps foundations (CI/CD mindset)
 
-**🚀 Featured Projects**
-- **Tadka Tales** – A hands-free cooking assistant built with Next.js
-- **Court Data Fetcher & Dashboard** – Legal case data scraper with real-time filters  
-- **WhatsApp Google Drive Assistant** – Drive file management via WhatsApp commands using n8n
+---
 
-**📫 Connect with me:**
-[LinkedIn](https://www.linkedin.com/in/komal992/)
+### 🧠 Tech Stack
+AWS (Beginner) | Linux | Networking | Python | Docker basics | Git & GitHub | n8n | REST APIs
 
+---
 
+### ⭐ Featured Projects
+Here are projects that reflect my problem-solving, automation, and full-stack skills:
+
+🔹 **Tadka Tales** — AI-powered voice cooking assistant (Next.js, React)  
+🔹 **Court Data Fetcher & Dashboard** — Legal case data scraping + dashboard  
+🔹 **WhatsApp Google Drive Assistant** — Automation using n8n  
+🔹 **Chat Application** — Python-based real-time chat app  
+🔹 **Portfolio** — Showcase of my web projects  
+
+> These help me understand real systems and pave the way toward cloud-native and automated workflows.
+
+---
+
+### 🚀 Let’s Connect
+I’m open to Cloud Support, NOC, DevOps internship roles and collaborative learning.  
+Find me on LinkedIn: https://www.linkedin.com/in/komal-2017a5188
+
+---
