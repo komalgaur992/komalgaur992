@@ -45,4 +45,4 @@ I am a hands-on Cloud Engineer focused on architecting secure, scalable, and aut
 
 * **LinkedIn:** [linkedin.com/in/komal025/](https://www.linkedin.com/in/komal025/)
 * **Email:** [komalgaur992@gmail.com](mailto:komalgaur992@gmail.com)
-* **Location:** India (Open to Remote/Noida/Delhi roles)
+* **Location:** Prayagraj, Uttar Pradesh (Open to Remote/Noida/Delhi roles)
